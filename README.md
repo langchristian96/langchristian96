@@ -1,4 +1,4 @@
-### Hi there 👋 - I'm Christian
+<!-- ### Hi there 👋 - I'm Christian
 
 - 🔭 Currently working as a Software Engineer at TORA in Hong Kong
 - 🌱 Open source contributions: <a href="https://github.com/netty/netty/commits?author=langchristian96">netty</a> <a href="https://github.com/bitrich-info/xchange-stream/commits?author=langchristian96">xchange-stream</a> <a href="https://github.com/DeviaVir/zenbot/commits?author=langchristian96">zenbot</a>
@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
